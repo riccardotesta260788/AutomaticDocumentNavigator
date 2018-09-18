@@ -16,7 +16,7 @@ $conf_links=[["linka","http://www.google.it"],
     ["linkb","https://www.ansa.it"]];
 
 //Header
-$conf_header="HEADER !";
+$conf_header="HEADER!";
 $conf_main_content="Can you write content or HTML code here!!!";
 
 $folders=["DOCUMENTS","OTHERS"];
